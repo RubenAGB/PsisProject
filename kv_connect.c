@@ -12,6 +12,7 @@
 #include <arpa/inet.h>
 #include <signal.h>
 
+/*Um comentáriozinho para ver no que dá*/asdasdasda
 int kv_connect(char * kv_server_ip, int kv_server_port)
 {	
 	int fd;
